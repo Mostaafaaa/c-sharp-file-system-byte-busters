@@ -1,0 +1,14 @@
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\bin\Debug\net8.0\MostafaOmarFileSystem.exe
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\bin\Debug\net8.0\MostafaOmarFileSystem.deps.json
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\bin\Debug\net8.0\MostafaOmarFileSystem.runtimeconfig.json
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\bin\Debug\net8.0\MostafaOmarFileSystem.dll
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\bin\Debug\net8.0\MostafaOmarFileSystem.pdb
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.AssemblyInfoInputs.cache
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.AssemblyInfo.cs
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.csproj.CoreCompileInputs.cache
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.dll
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\refint\MostafaOmarFileSystem.dll
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.pdb
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\MostafaOmarFileSystem.genruntimeconfig.cache
+D:\CSharp\Halal almshakl\MostafaOmarFileSystem\obj\Debug\net8.0\ref\MostafaOmarFileSystem.dll
