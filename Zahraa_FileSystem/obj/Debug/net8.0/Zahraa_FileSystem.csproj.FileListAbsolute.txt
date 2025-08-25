@@ -1,0 +1,14 @@
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\bin\Debug\net8.0\Zahraa_FileSystem.exe
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\bin\Debug\net8.0\Zahraa_FileSystem.deps.json
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\bin\Debug\net8.0\Zahraa_FileSystem.runtimeconfig.json
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\bin\Debug\net8.0\Zahraa_FileSystem.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\bin\Debug\net8.0\Zahraa_FileSystem.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.AssemblyInfoInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.AssemblyInfo.cs
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.csproj.CoreCompileInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\refint\Zahraa_FileSystem.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\Zahraa_FileSystem.genruntimeconfig.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahraa_FileSystem\obj\Debug\net8.0\ref\Zahraa_FileSystem.dll
