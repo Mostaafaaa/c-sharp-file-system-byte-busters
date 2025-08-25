@@ -1,3 +1,0 @@
-Hello File System, This is new text I append it
-
--- text file had been copy to new folder --
