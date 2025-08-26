@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\bin\Debug\net9.0\Husain_Haider_File_System.exe
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\bin\Debug\net9.0\Husain_Haider_File_System.deps.json
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\bin\Debug\net9.0\Husain_Haider_File_System.runtimeconfig.json
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\bin\Debug\net9.0\Husain_Haider_File_System.dll
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\bin\Debug\net9.0\Husain_Haider_File_System.pdb
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.dll
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\refint\Husain_Haider_File_System.dll
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.pdb
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\Husain_Haider_File_System.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Husain_Haider_File_System\Husain_Haider_File_System\obj\Debug\net9.0\ref\Husain_Haider_File_System.dll

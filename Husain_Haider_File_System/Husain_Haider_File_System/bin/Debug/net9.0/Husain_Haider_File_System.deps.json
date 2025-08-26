@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Husain_Haider_File_System/1.0.0": {
+        "runtime": {
+          "Husain_Haider_File_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Husain_Haider_File_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
